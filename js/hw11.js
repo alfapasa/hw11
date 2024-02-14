@@ -20,5 +20,5 @@ for (let i = 0; i < users.length; i++) {
     sumBalance += users[i].balance;
 }
 
-console.log(sumBalance);
+console.log(`The summ of all balances is: ${sumBalance}`);
 
